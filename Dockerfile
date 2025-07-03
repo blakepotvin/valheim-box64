@@ -1,4 +1,4 @@
-FROM  --platform=$TARGETOS/$TARGETARCH ubuntu:22.04
+FROM  --platform=$TARGETOS/$TARGETARCH ubuntu:24.04
 
 LABEL author="Blake Potvin"
 
